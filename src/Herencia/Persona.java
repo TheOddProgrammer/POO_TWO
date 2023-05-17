@@ -2,8 +2,8 @@ package Herencia;
 
 public class Persona {
     protected String nombre;
-    private String apellido;
-    private int edad;
+    protected String apellido;
+    protected int edad;
 
     public Persona(String nombre, String apellido, int edad) {
         this.nombre = nombre;

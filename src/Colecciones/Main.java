@@ -1,8 +1,5 @@
 package Colecciones;
 
-import java.util.HashSet;
-import java.util.Vector;
-
 public class Main {
     public static void main(String[] args) {
         
@@ -40,18 +37,19 @@ public class Main {
 //        });
 
 
-          Vector<Integer> numeros = new Vector<>();
-          
-          numeros.add(3);
-          numeros.add(50);
-          numeros.add(0,70);
-          numeros.add(0,70);
-          numeros.add(80);
-          numeros.add(3,30);
-          numeros.add(30);
-          
-          numeros.forEach((numero) -> {
-              System.out.println(numero);
-        });
+//          Vector<Integer> numeros = new Vector<>();
+//          
+//          numeros.add(3);
+//          numeros.add(50);
+//          numeros.add(0,70);
+//          numeros.add(0,70);
+//          numeros.add(80);
+//          numeros.add(3,30);
+//          numeros.add(30);
+//          
+//          numeros.forEach((numero) -> {
+//              System.out.println(numero);
+//        });
+//    }
     }
 }
